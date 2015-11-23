@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: iratebrands
+        psr4_prefix: iratebrands
+        src_path: app
